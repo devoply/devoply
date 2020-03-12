@@ -32,7 +32,7 @@ Buy Now
 
 Sponsorships help fund this open source project. They will give you access to an expert resource as well as the source of the professional version. We can help you develop a commercial offering for customers built on top of the professional or open source versions of DEVOPly using an enterprise file system such as ZFS or GlusterFS with potential for redundant copies of the same site in case any of the servers in your network fail.
 
-Levels
+## Levels
 
 * Executive - $8,360/mo. (1 available) - Exclusive package guarantees you executive support and access to all pro source code and as well as direct consulting in direction of development, in terms of suggesting new features to add to the product, new ideas to develop and so on.
 
