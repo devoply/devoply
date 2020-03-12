@@ -34,7 +34,7 @@ Sponsorships help fund this open source project. They will give you access to an
 
 Levels
 
-* Exclusive - $8,360/mo. (1 available) - Exclusive package guarantees you exclusive support and access to all pro source code and development.
+* Exclusive - $8,360/mo. (1 available) - Exclusive package guarantees you exclusive support and access to all pro source code and driving development.
 
 * Level 1 - $1000/mo. (4 available) - Includes source code for the professional version. As well as techincal support for deploying an enterprise version of this software using ZFS backend.
 
