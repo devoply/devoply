@@ -19,15 +19,15 @@ You may also run a local copy of DEVOPly within Docker in
 * Linux
 * Windows
 
-# Techincal Support
+# Technical Support Packages
 
-Technical support is offered at $50/hr. with a 10 hour minimum purchase ($500). This includes installing, upgrading, and debugging any hosting issue. Any 
+Technical support is offered at $50/hr. with a 10 hour minimum purchase ($500). This includes installing, upgrading, and debugging any hosting issue. A technical support package is valid for one year. A pro license does not include a technical support package, only access to the current software and the ability to file bugs.
 
 Buy Now
 
 # Sponsorships
 
-Sponsorships help fund this open source project. They will give you access to an expert resource as well as the source of the professional version. We can help you develop 
+Sponsorships help fund this open source project. They will give you access to an expert resource as well as the source of the professional version. We can help you develop a commercial offering for customers built on top of the professional or open source versions of DEVOPly using an enterprise file system such as ZFS or GlusterFS with potential for redundant copies of the same site in case any of the servers in your network fail.
 
 Levels
 
