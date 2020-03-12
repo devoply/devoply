@@ -19,6 +19,10 @@ You may also run a local copy of DEVOPly within Docker in
 * Linux
 * Windows
 
+# Configuration
+
+In order to deploy DEVOPly you will need an Amazon AWS account and you will incur small charges for using various features needed by DEVOPly. These include Amazon SQS, Amazon SNS, Amazon SES, etc.
+
 # Technical Support Packages
 
 Technical support is offered at $50/hr. with a 10 hour minimum purchase ($500). This includes installing, upgrading, and debugging any hosting issue. A technical support package is valid for one year. A pro license does not include a technical support package, only access to the current software and the ability to file bugs.
