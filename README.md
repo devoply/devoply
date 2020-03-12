@@ -24,7 +24,7 @@ In order to deploy DEVOPly you will need an Amazon AWS account and you will incu
 
 # Technical Support Packages
 
-Technical support is offered at $50/hr. with a 10 hour minimum purchase ($500). This includes installing, upgrading, and debugging any hosting issue. A technical support package is valid for one year. A pro license does not include a technical support package, only access to the current software and the ability to file bugs.
+Technical support is offered at $50/hr. with a 3 hour minimum purchase ($150). This includes installing, upgrading, and debugging any hosting issue. A technical support package is valid for one year. A pro license does not include a technical support package, only access to the current software and the ability to file bugs.
 
 Buy Now
 
