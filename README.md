@@ -8,11 +8,10 @@ DEVOPly is an Open Source local development and remote hosting platform for PHP 
 The open source version lacks a number of features included in the pro version.
 * Support for GIT deployment.
 * Backup using a number of cloud providers.
-* 
+* Cloning a website between different servers.
+* (todo) Deploying a HA server with copies of live sites.
 
-Locally you can start DEVOPLy by installing Docker and running a command. You can use a local instance to manage remote instances
-
-You may also run a local copy of DEVOPly within Docker in
+Locally you can start DEVOPLy by installing Docker and running a command. You can use a local instance to manage remote VPS servers. However do not that the data on your local machine may be lost and therefore access to existing sites will be lost if your local container is destroyed. Therefore, we do no recommend running a production instance of DEVOPly locally.
 
 # Supported Platforms
 * Mac
