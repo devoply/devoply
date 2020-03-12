@@ -36,11 +36,11 @@ Sponsorships help fund this open source project. They will give you access to an
 
 ## Levels
 
-* Executive - $8,360/mo. (1 available) - Exclusive package guarantees you executive support and access to all pro source code and as well as direct consulting in direction of development, in terms of suggesting new features to add to the product, new ideas to develop and so on.
+* President - $8,360/mo. (1 available) - Exclusive package guarantees you executive support and access to all pro source code and as well as direct consulting in direction of development, in terms of suggesting new features to add to the product, new ideas to develop and so on.
 
-* Level 1 - $1,228/mo. (4 available) - Includes source code for the professional version. As well as techincal support for deploying an enterprise version of this software using ZFS backend.
+* Vice President - $1,228/mo. (4 available) - Includes source code for the professional version. As well as techincal support for deploying an enterprise version of this software using ZFS backend.
 
-* Level 2 - $569/mo. (8 available) - Includes source code for the professional version and 40 hours of support.
+* Associate President - $569/mo. (8 available) - Includes source code for the professional version and 40 hours of support.
 
-* Level 3 - $249/mo. (16 available) - Includes source code for the professional version.
+* Manager - $249/mo. (16 available) - Includes source code for the professional version.
 
