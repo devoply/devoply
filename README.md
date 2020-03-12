@@ -5,6 +5,8 @@ DEVOPly is an Open Source local development and remote hosting platform for PHP 
 
 ## Open Source vs Pro version
 
+Pro version $79.33/year Subscribe
+
 The open source version lacks a number of features included in the pro version.
 * Support for GIT deployment.
 * Backup using a number of cloud providers.
