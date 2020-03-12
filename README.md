@@ -3,7 +3,7 @@
 
 DEVOPly is an Open Source local development and remote hosting platform for PHP applications. WordPress, Drupal, and any PHP Framework using composer.
 
-Locally you can start DEVOPLy by installing Docker and running a command.
+Locally you can start DEVOPLy by installing Docker and running a command. You can use a local instance to manage remote instances
 
 You may also run a local copy of DEVOPly.
 
@@ -11,3 +11,4 @@ You may also run a local copy of DEVOPly.
 * Mac
 * Linux
 * Windows
+
